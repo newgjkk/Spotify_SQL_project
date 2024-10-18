@@ -1,5 +1,4 @@
-# Spotify Advanced SQL Project and Query Optimization P-6
-
+# Spotify SQL Project and Query Optimization 
 
 ![Spotify Logo](https://github.com/newgjkk/Spotify_SQL_project/blob/main/spotify_logo.jpg)
 
@@ -7,7 +6,7 @@
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity, and optimizing query performance. The primary goals of the project is to generate valuable insights from the dataset.
 
 ## Project Structure
-![ERD](https://github.com/newgjkk/Spotify_SQL_project/blob/main/ITL 2024.png)
+![ERD](https://github.com/newgjkk/Spotify_SQL_project/blob/main/spotify_pic.jpg)
 
 ### 1. Database Setup
 ```sql
@@ -51,7 +50,7 @@ The dataset contains attributes such as:
 - Various metrics such as `danceability`, `energy`, `loudness`, `tempo`, and more.
 
 **ER diagram of Data Set**: 
-![ERD](https://github.com/newgjkk/Spotify_SQL_project/blob/main/ITL 2024.png)
+![ERD](https://github.com/newgjkk/Spotify_SQL_project/blob/main/Data_Model_Spotify.jpg)
 
 This relational data model was developed to streamline the organization and storage of music streaming data, enabling efficient data extraction and quick retrieval for analysis. Its structured design allows for seamless integration with front-end teams, ensuring data is provided in the required format for creating a dynamic music streaming platform. The model enhances system performance, scalability, and ensures consistent communication between various data tables.
 
