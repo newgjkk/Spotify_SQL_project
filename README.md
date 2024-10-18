@@ -39,7 +39,6 @@ CREATE TABLE spotify (
     most_played_on 		VARCHAR(50)
 );
 
-SELECT * from spotify;
 ```
 ### 2. Database Design
 The dataset contains attributes such as:
